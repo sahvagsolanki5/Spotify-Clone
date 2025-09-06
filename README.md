@@ -1,7 +1,8 @@
 ## Spotify Clone 🎵
 
 <h3> This is a simple Spotify Clone made using only HTML and CSS.  
-It is a static project created for practice and learning. </h3>
+It is a static project created for practice and learning. <br>
+Note: This project is UI-only — no JavaScript and no functionality.</h3>
 
 ## Features
 - Responsive design for different screen sizes
