@@ -13,5 +13,5 @@ It is a static project created for practice and learning. </h3>
 - CSS  
 
 ## Screenshot
-
+![Screenshot](./assets/Spotify-Clone-img.png)
 
